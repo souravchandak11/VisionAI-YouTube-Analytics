@@ -3,7 +3,10 @@
 
 VisionAI is a premium data analysis product designed to empower YouTube content creators. It combines comprehensive historical analytics with a predictive machine learning engine to simulate video performance before you hit "Upload."
 
-![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge) ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Recharts%20%7C%20FramerMotion-blue?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge)](https://visionaiyoutubeanalytics.vercel.app/) [![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Recharts%20%7C%20FramerMotion-blue?style=for-the-badge)](https://github.com/souravchandak11/VisionAI-YouTube-Analytics)
+
+## 🔗 Live Application
+Experience the platform live: **[visionaiyoutubeanalytics.vercel.app](https://visionaiyoutubeanalytics.vercel.app/)**
 
 ## 🎯 Project Objective
 The goal of this project is to demonstrate **High-Agency Data Analysis**: moving beyond static charts to create an interactive tool that provides actionable ROI. It solves the problem of "Content Uncertainty" by using historical data patterns to predict future engagement.
